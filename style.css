@@ -1,0 +1,42 @@
+
+.outer {
+    border: solid 2px black;
+    padding: 20px;
+    margin: 20px;
+}
+.searchWrapper{
+    padding-top: 15px;
+    border: 1px solid black;
+    width: 60%;
+    margin-left: 20%
+}
+
+.boxes{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box{
+    border: 2px solid black;
+    height:220px;
+    width: 300px;
+    padding: 20px;
+    
+}
+.Wrapper{
+    display: flex;
+    gap: 30px;
+}
+h1{
+    text-align: center;
+    margin-top:1px ;
+}
+img{
+    height: 150px;
+    width: 130px;
+    border: 1px solid black;
+}
+
+
